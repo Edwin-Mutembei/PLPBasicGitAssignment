@@ -1,0 +1,1 @@
+The repo present a basic simulation of the process of enrolling to github, creating a remote repo, creating a project folder and initializing git, linking the local ropo to the remote repo and finaly creating a file and pushing it to github.
